@@ -1,7 +1,7 @@
 # Doku Reader for Kindle
 
 購入済みの電子書籍を、作品・巻ごとに整理して読むためのWindows用アプリです。
-開発・サポート：**Doku**
+開発・サポート：**Dokurock**
 
 **現在はMicrosoft Storeでの販売準備中です。一般向けの販売・ダウンロードはまだ開始していません。**
 
